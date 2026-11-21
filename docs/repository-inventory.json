@@ -1,0 +1,242 @@
+[
+  {
+    "name": "APA-LaTeX-template",
+    "url": "https://github.com/bracketxzhy/APA-LaTeX-template",
+    "description": "ENG200 APA LaTeX demo",
+    "language": "TeX",
+    "stars": 0,
+    "files": 10,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Digital-Circuit",
+    "url": "https://github.com/bracketxzhy/Digital-Circuit",
+    "description": null,
+    "language": "VHDL",
+    "stars": 0,
+    "files": 225,
+    "root_readme_found": true,
+    "root_readme_sha": "7ebd637c0ea7fe848fc598c3addb28149c7ea361"
+  },
+  {
+    "name": "Linear-Circuit",
+    "url": "https://github.com/bracketxzhy/Linear-Circuit",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 54,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Calculus",
+    "url": "https://github.com/bracketxzhy/Calculus",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 8,
+    "root_readme_found": true,
+    "root_readme_sha": "edef1a806d4414586016edc3fafdbc581bd9722d"
+  },
+  {
+    "name": "ECE0301-CPP",
+    "url": "https://github.com/bracketxzhy/ECE0301-CPP",
+    "description": null,
+    "language": "C++",
+    "stars": 0,
+    "files": 65,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Gaussian-human",
+    "url": "https://github.com/bracketxzhy/Gaussian-human",
+    "description": null,
+    "language": "HTML",
+    "stars": 0,
+    "files": 1890,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "3D_Gaussian_fitting",
+    "url": "https://github.com/bracketxzhy/3D_Gaussian_fitting",
+    "description": null,
+    "language": "Python",
+    "stars": 1,
+    "files": 7,
+    "root_readme_found": true,
+    "root_readme_sha": "f7c5617632829be11bcaf9cbabfbb33157ef1ba6"
+  },
+  {
+    "name": "IMA_visualization",
+    "url": "https://github.com/bracketxzhy/IMA_visualization",
+    "description": null,
+    "language": "Python",
+    "stars": 0,
+    "files": 228,
+    "root_readme_found": true,
+    "root_readme_sha": "555d8a25911bd0dc0842258f674b21ae39dbfe67"
+  },
+  {
+    "name": "SCU-logos",
+    "url": "https://github.com/bracketxzhy/SCU-logos",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 6,
+    "root_readme_found": true,
+    "root_readme_sha": "78009ab6d8c7ccc1ab4de206150a7a8c1eb7397e"
+  },
+  {
+    "name": "part-of-Chapter13",
+    "url": "https://github.com/bracketxzhy/part-of-Chapter13",
+    "description": null,
+    "language": "C++",
+    "stars": 0,
+    "files": 9,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Sparse-FFT",
+    "url": "https://github.com/bracketxzhy/Sparse-FFT",
+    "description": null,
+    "language": "MATLAB",
+    "stars": 0,
+    "files": 22,
+    "root_readme_found": true,
+    "root_readme_sha": "116222caa06a9f591752d2a8cbb46bb3afb5fe07"
+  },
+  {
+    "name": "Editable-Gaussian-Avatars",
+    "url": "https://github.com/bracketxzhy/Editable-Gaussian-Avatars",
+    "description": null,
+    "language": "Python",
+    "stars": 0,
+    "files": 8192,
+    "root_readme_found": true,
+    "root_readme_sha": "7a5e8e7dd027c5ad656a02058e8e53dedac0f8a4"
+  },
+  {
+    "name": "AEMT2026",
+    "url": "https://github.com/bracketxzhy/AEMT2026",
+    "description": null,
+    "language": "Python",
+    "stars": 0,
+    "files": 74,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "E-Book",
+    "url": "https://github.com/bracketxzhy/E-Book",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 19,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "HSS-H-R",
+    "url": "https://github.com/bracketxzhy/HSS-H-R",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 6,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Microelectronic-Circuits",
+    "url": "https://github.com/bracketxzhy/Microelectronic-Circuits",
+    "description": null,
+    "language": "PowerShell",
+    "stars": 0,
+    "files": 63,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Signal",
+    "url": "https://github.com/bracketxzhy/Signal",
+    "description": null,
+    "language": "Python",
+    "stars": 0,
+    "files": 140,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Data-Structure",
+    "url": "https://github.com/bracketxzhy/Data-Structure",
+    "description": null,
+    "language": "C++",
+    "stars": 0,
+    "files": 87,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "Embedded-Processor",
+    "url": "https://github.com/bracketxzhy/Embedded-Processor",
+    "description": null,
+    "language": "Assembly",
+    "stars": 0,
+    "files": 254,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "scu-course-exporter",
+    "url": "https://github.com/bracketxzhy/scu-course-exporter",
+    "description": null,
+    "language": "JavaScript",
+    "stars": 0,
+    "files": 7,
+    "root_readme_found": true,
+    "root_readme_sha": "33bda2c0dda98e00ebe060ecd93340c66e3a25f3"
+  },
+  {
+    "name": "Electronic-Circuit",
+    "url": "https://github.com/bracketxzhy/Electronic-Circuit",
+    "description": null,
+    "language": null,
+    "stars": 0,
+    "files": 61,
+    "root_readme_found": false,
+    "root_readme_sha": null
+  },
+  {
+    "name": "blackboard-mcp-skill",
+    "url": "https://github.com/bracketxzhy/blackboard-mcp-skill",
+    "description": "Reusable own-login Blackboard skill: read-only MCP, latest-submission exports, and grading capability checks without grade writes.",
+    "language": "TypeScript",
+    "stars": 1,
+    "files": 39,
+    "root_readme_found": true,
+    "root_readme_sha": "c99b8c1a17d6a5ef13b826bbdf716c32e1bb2f10"
+  },
+  {
+    "name": "qq-google-calendar-sync",
+    "url": "https://github.com/bracketxzhy/qq-google-calendar-sync",
+    "description": "Windows QQ new-message capture, Codex task review, and privacy-aware Google Calendar synchronization.",
+    "language": "Python",
+    "stars": 1,
+    "files": 31,
+    "root_readme_found": true,
+    "root_readme_sha": "90786f9fb6ba4bb813976afcd2940e5d7d3754a0"
+  },
+  {
+    "name": "offline-smart-glasses",
+    "url": "https://github.com/bracketxzhy/offline-smart-glasses",
+    "description": "Offline smart glasses using XIAO ESP32-S3 Sense and on-device inference",
+    "language": "Python",
+    "stars": 1,
+    "files": 90,
+    "root_readme_found": true,
+    "root_readme_sha": "1a069a259e35427d6515d1aa7e6df1ff4dbef465"
+  }
+]

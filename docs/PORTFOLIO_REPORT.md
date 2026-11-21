@@ -97,4 +97,59 @@ For each selected project, restore README content from its backup branch in a ne
 
 ## Validation
 
-SVG XML validation passed before deployment. Final rendered profile, image loading, links, mobile layout, workflow execution, and persisted pin order are checked after publication; final results are recorded below.
+| Check | Result |
+| --- | --- |
+| Public profile rendering | Passed in the signed-in dark theme and signed-out public view |
+| Desktop layout | Passed; screenshot below |
+| Mobile layout | Passed at 375 px available content width; page scrollWidth also 375 px, with no horizontal overflow |
+| Images | Banner, existing architecture diagram, stats and language cards all loaded successfully |
+| Mobile statistics | Cards stack vertically and each scales to 293 px within the README |
+| HTTPS links in profile | All 17 unique HTTPS links returned HTTP 200 |
+| SVG validation | Passed locally and inside GitHub Actions |
+| Refresh workflow | [Run 44886258450](https://github.com/bracketxzhy/bracketxzhy/actions/runs/44886258450) completed successfully, including generation, validation and commit |
+| Project change scope | GitHub comparisons confirm exactly one changed file (`README.md`) in each of the six project commits |
+| Git history | Preserved; all six projects and the profile have pre-change backup branches |
+| Visitor view | Verified without signing in; final name, enrolment wording and README are visible |
+
+No model training, hardware benchmarks, licensed model redistribution, or changes to experiment data were performed. Those are outside this documentation task.
+
+## Final pins
+
+1. Editable-Gaussian-Avatars
+2. offline-smart-glasses
+3. blackboard-mcp-skill
+4. qq-google-calendar-sync
+5. Sparse-FFT
+6. 3D_Gaussian_fitting
+
+Replaced the DICOM viewer pin with EGA and ordered the six by relevance. The final order was observed in the GitHub profile UI.
+
+## Final files and evidence
+
+| File | Purpose |
+| --- | --- |
+| [README.md](../README.md) | Complete profile source |
+| [banner.svg](../assets/banner.svg) | Original static vector banner |
+| [stats.svg](../assets/stats.svg) | Automatically refreshed public statistics |
+| [languages.svg](../assets/languages.svg) | Automatically refreshed public language card |
+| [profile-cards.yml](../.github/workflows/profile-cards.yml) | Refresh workflow |
+| [validate-assets.py](../scripts/validate-assets.py) | SVG validation |
+| [README.initial.md](../backups/2026-11-21/README.initial.md) | Initial profile template |
+| [repository-inventory.json](repository-inventory.json) | Exact original public descriptions, primary languages, star counts and README availability |
+| [link-check.json](link-check.json) | HTTP results for profile links |
+| [verification-desktop.jpg](verification-desktop.jpg) | Final desktop profile |
+| [verification-pins.jpg](verification-pins.jpg) | Final pins |
+| [verification-mobile.jpg](verification-mobile.jpg) | Mobile profile |
+| [verification-mobile-cards.jpg](verification-mobile-cards.jpg) | Mobile card stacking |
+| [PORTFOLIO_REPORT.md](PORTFOLIO_REPORT.md) | Audit, decisions, changes, recovery and validation |
+
+![Desktop profile](verification-desktop.jpg)
+
+## Remaining content
+
+- LRTTR code, results, videos and architecture assets: not published because no public release was established. Only the owner's authorized high-level topic is described.
+- Publication venues/statuses and competition awards: omitted until supported by verifiable public records. Existing manuscript/submission documents alone do not establish publication or acceptance.
+- LinkedIn and other academic sites: no existing public links were found.
+- EGA human-image demos and medical-image examples: not reused because redistribution permission and suitability were not established.
+- Sparse-FFT MATLAB naming and other implementation issues: documented, not repaired, because only README changes were authorized.
+
