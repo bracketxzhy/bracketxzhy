@@ -36,3 +36,13 @@ The existing `profile-cards.yml` refreshes statistics, the contribution graph, a
 The original toolkit table is replaced with the icon row to avoid duplicate skill lists. The monochrome banner, Class of 2028, English-only text, and absence of project descriptions are preserved.
 
 Backup branch: `backup/pre-contribution-visuals-2026-11-21`.
+
+## Verified deployment
+
+- [Workflow run 44888882450](https://github.com/bracketxzhy/bracketxzhy/actions/runs/44888882450) completed successfully: card generation, snake generation, public calendar rendering, SVG validation, and automatic commit.
+- The final visitor page loaded all six displayed images (banner, two statistics cards, graph, tool row, and snake).
+- Desktop viewport width and document scroll width both measured 1348 px, without horizontal overflow.
+- Both snake files contain CSS keyframes; the live page displayed different snake positions across successive captures.
+- The README still contains Class of 2028, English-only text, and no project descriptions.
+
+![Live graph, icon row and snake](verification-visuals.jpg)
