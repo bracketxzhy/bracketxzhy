@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1016" height="300" viewBox="0 0 1016 300" role="img" aria-labelledby="title desc" data-start-date="2026-10-22" data-end-date="2026-11-21">
 <title id="title">bracketxzhy's Contribution Graph</title>
-<desc id="desc">Public GitHub contributions from 2026-10-22 through 2026-11-21; 23 contributions in this period.</desc>
+<desc id="desc">Public GitHub contributions from 2026-10-22 through 2026-11-21; 24 contributions in this period.</desc>
 <rect width="1016" height="300" rx="12" fill="#0d1117"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="508" y="34" text-anchor="middle" fill="#39d353" font-size="21" font-weight="600">bracketxzhy's Contribution Graph</text>
@@ -21,8 +21,8 @@
 <text x="678.67" y="261" text-anchor="middle" fill="#8b949e" font-size="11">Nov 11</text>
 <text x="832.33" y="261" text-anchor="middle" fill="#8b949e" font-size="11">Nov 16</text>
 <text x="986.00" y="261" text-anchor="middle" fill="#8b949e" font-size="11">Nov 21</text>
-<polygon points="64,240 64.00,175.50 94.73,240.00 125.47,240.00 156.20,240.00 186.93,240.00 217.67,240.00 248.40,218.50 279.13,240.00 309.87,240.00 340.60,240.00 371.33,240.00 402.07,240.00 432.80,240.00 463.53,240.00 494.27,240.00 525.00,240.00 555.73,240.00 586.47,240.00 617.20,240.00 647.93,240.00 678.67,240.00 709.40,240.00 740.13,240.00 770.87,240.00 801.60,218.50 832.33,240.00 863.07,240.00 893.80,240.00 924.53,240.00 955.27,240.00 986.00,100.25 986,240" fill="#26a641" opacity="0.14"/>
-<polyline points="64.00,175.50 94.73,240.00 125.47,240.00 156.20,240.00 186.93,240.00 217.67,240.00 248.40,218.50 279.13,240.00 309.87,240.00 340.60,240.00 371.33,240.00 402.07,240.00 432.80,240.00 463.53,240.00 494.27,240.00 525.00,240.00 555.73,240.00 586.47,240.00 617.20,240.00 647.93,240.00 678.67,240.00 709.40,240.00 740.13,240.00 770.87,240.00 801.60,218.50 832.33,240.00 863.07,240.00 893.80,240.00 924.53,240.00 955.27,240.00 986.00,100.25" fill="none" stroke="#39d353" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="64,240 64.00,175.50 94.73,240.00 125.47,240.00 156.20,240.00 186.93,240.00 217.67,240.00 248.40,218.50 279.13,240.00 309.87,240.00 340.60,240.00 371.33,240.00 402.07,240.00 432.80,240.00 463.53,240.00 494.27,240.00 525.00,240.00 555.73,240.00 586.47,240.00 617.20,240.00 647.93,240.00 678.67,240.00 709.40,240.00 740.13,240.00 770.87,240.00 801.60,218.50 832.33,240.00 863.07,240.00 893.80,240.00 924.53,240.00 955.27,240.00 986.00,89.50 986,240" fill="#26a641" opacity="0.14"/>
+<polyline points="64.00,175.50 94.73,240.00 125.47,240.00 156.20,240.00 186.93,240.00 217.67,240.00 248.40,218.50 279.13,240.00 309.87,240.00 340.60,240.00 371.33,240.00 402.07,240.00 432.80,240.00 463.53,240.00 494.27,240.00 525.00,240.00 555.73,240.00 586.47,240.00 617.20,240.00 647.93,240.00 678.67,240.00 709.40,240.00 740.13,240.00 770.87,240.00 801.60,218.50 832.33,240.00 863.07,240.00 893.80,240.00 924.53,240.00 955.27,240.00 986.00,89.50" fill="none" stroke="#39d353" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="64.00" cy="175.50" r="3" fill="#39d353"><title>2026-10-22: 6 contributions</title></circle>
 <circle cx="94.73" cy="240.00" r="3" fill="#39d353"><title>2026-10-23: 0 contributions</title></circle>
 <circle cx="125.47" cy="240.00" r="3" fill="#39d353"><title>2026-10-24: 0 contributions</title></circle>
@@ -53,7 +53,7 @@
 <circle cx="893.80" cy="240.00" r="3" fill="#39d353"><title>2026-11-18: 0 contributions</title></circle>
 <circle cx="924.53" cy="240.00" r="3" fill="#39d353"><title>2026-11-19: 0 contributions</title></circle>
 <circle cx="955.27" cy="240.00" r="3" fill="#39d353"><title>2026-11-20: 0 contributions</title></circle>
-<circle cx="986.00" cy="100.25" r="3" fill="#39d353"><title>2026-11-21: 13 contributions</title></circle>
+<circle cx="986.00" cy="89.50" r="3" fill="#39d353"><title>2026-11-21: 14 contributions</title></circle>
 <text x="508" y="286" text-anchor="middle" fill="#8b949e" font-size="12">Date</text>
 <text x="18" y="154" transform="rotate(-90 18 154)" text-anchor="middle" fill="#8b949e" font-size="12">Contributions</text>
 </g></svg>
