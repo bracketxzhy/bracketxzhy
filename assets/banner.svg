@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Stefan Zhang — Robotics and 3D Computer Vision</title>
+<desc id="desc">Electronic Information Engineering. Abstract wireframe geometry, not an experimental result.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#142436"/></linearGradient><linearGradient id="line"><stop stop-color="#56d4dd"/><stop offset="1" stop-color="#79b8ff"/></linearGradient></defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<path d="M0 299H1200" stroke="#303d50"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="56" y="62" fill="#56d4dd" font-size="15" letter-spacing="3">RESEARCH &amp; ENGINEERING</text><text x="52" y="132" fill="#f0f6fc" font-size="58" font-weight="700">Stefan Zhang</text><text x="56" y="181" fill="#b6c6d9" font-size="24">Robotics &amp; 3D Computer Vision</text><text x="56" y="235" fill="#93a6bc" font-size="19">Electronic Information Engineering · SCUPI</text></g>
+<g fill="none" stroke="url(#line)" stroke-width="1.6" opacity=".62"><path d="M760 201L805 172L850 187L895 119L940 143L985 93L1030 127L1075 99L1130 130M760 222L805 194L850 207L895 147L940 166L985 124L1030 154L1075 130L1130 157M760 243L805 217L850 229L895 178L940 194L985 158L1030 184L1075 164L1130 187M760 264L805 243L850 251L895 212L940 226L985 197L1030 218L1075 203L1130 218"/><path d="M760 201V264M805 172V243M850 187V251M895 119V212M940 143V226M985 93V197M1030 127V218M1075 99V203M1130 130V218"/></g><g fill="#79dfea"><circle cx="805" cy="172" r="3"/><circle cx="895" cy="119" r="3"/><circle cx="985" cy="93" r="3"/><circle cx="1075" cy="99" r="3"/><circle cx="1130" cy="157" r="3"/></g>
+</svg>
