@@ -4,7 +4,7 @@
 
 # Stefan Zhang · 张鹤扬
 
-**Electronic Information Engineering undergraduate · Class of 2024**
+**Electronic Information Engineering undergraduate · Enrolled 2024**
 
 Sichuan University – Pittsburgh Institute (SCUPI)
 
@@ -97,8 +97,8 @@ These are tools used in the linked work, rather than proficiency rankings. Robot
 ## GitHub activity
 
 <p>
-  <img src="assets/stats.svg" alt="GitHub public activity statistics" width="49%" />
-  <img src="assets/languages.svg" alt="Language distribution across public repositories" width="49%" />
+  <img src="assets/stats.svg" alt="GitHub public activity statistics" width="420" />
+  <img src="assets/languages.svg" alt="Language distribution across public repositories" width="360" />
 </p>
 
 Language statistics reflect repository contents, including dependencies; they do not measure expertise. Cards are generated daily and stored in this repository. The native contribution calendar appears below this README.
@@ -108,3 +108,4 @@ Language statistics reflect repository contents, including dependencies; they do
 ## Contact
 
 For research collaboration and internship enquiries: **[bracket_x@163.com](mailto:bracket_x@163.com)**.
+
