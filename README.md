@@ -24,8 +24,8 @@ Multimodal Sensor Fusion · Deep Learning · Point Cloud Processing
 </p>
 
 <p align="center">
-  <img src="assets/tool-icons.svg#gh-light-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, and VS Code" width="628" />
-  <img src="assets/tool-icons-dark.svg#gh-dark-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, and VS Code" width="628" />
+  <img src="assets/tool-icons.svg#gh-light-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, VS Code, Node.js, npm, PowerShell, GitHub Actions" width="860" />
+  <img src="assets/tool-icons-dark.svg#gh-dark-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, VS Code, Node.js, npm, PowerShell, GitHub Actions" width="860" />
 </p>
 
 <p>
