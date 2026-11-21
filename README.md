@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="Stefan Zhang — Robotics & 3D Computer Vision" width="100%" />
+  <img src="assets/banner-minimal-light.svg#gh-light-mode-only" alt="Stefan Zhang — Robotics &amp; 3D Computer Vision" width="100%" />
+  <img src="assets/banner-minimal-dark.svg#gh-dark-mode-only" alt="Stefan Zhang — Robotics &amp; 3D Computer Vision" width="100%" />
 </p>
 
 <p align="center">
@@ -16,25 +17,25 @@ Multimodal Sensor Fusion · Deep Learning · Point Cloud Processing
 ## GitHub Activity
 
 <p>
-  <img src="assets/stats.svg" alt="Public GitHub statistics" width="420" />
-  <img src="assets/languages.svg" alt="Public repository languages" width="360" />
+  <img src="assets/stats-light.svg#gh-light-mode-only" alt="Public GitHub statistics" width="420" />
+  <img src="assets/stats.svg#gh-dark-mode-only" alt="Public GitHub statistics" width="420" />
+  <img src="assets/languages-light.svg#gh-light-mode-only" alt="Public repository languages" width="360" />
+  <img src="assets/languages.svg#gh-dark-mode-only" alt="Public repository languages" width="360" />
 </p>
 
 <p>
-  <img src="assets/contribution-graph.svg" alt="bracketxzhy's contribution graph for the last 31 days" width="100%" />
+  <img src="assets/contribution-graph-light.svg#gh-light-mode-only" alt="bracketxzhy's contribution graph for the last 31 days" width="100%" />
+  <img src="assets/contribution-graph.svg#gh-dark-mode-only" alt="bracketxzhy's contribution graph for the last 31 days" width="100%" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-icons-dark.svg" />
-    <img src="assets/tool-icons.svg" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, and VS Code" width="628" />
-  </picture>
+  <img src="assets/tool-icons.svg#gh-light-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, and VS Code" width="628" />
+  <img src="assets/tool-icons-dark.svg#gh-dark-mode-only" alt="Anaconda, C++, TypeScript, Git, GitHub, PyCharm, Python, PyTorch, OpenCV, SQLite, and VS Code" width="628" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img src="assets/github-snake.svg" alt="Animated snake following bracketxzhy's contribution calendar" width="100%" />
-</picture>
+<p>
+  <img src="assets/github-snake.svg#gh-light-mode-only" alt="Animated snake following bracketxzhy's contribution calendar" width="100%" />
+  <img src="assets/github-snake-dark.svg#gh-dark-mode-only" alt="Animated snake following bracketxzhy's contribution calendar" width="100%" />
+</p>
 
 <sub>Updated daily. Language statistics reflect repository contents, not proficiency. Visuals: <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats</a> · <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> · <a href="https://github.com/Platane/snk">snk</a>.</sub>
