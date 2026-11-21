@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Stefan Zhang — Robotics and 3D Computer Vision" width="100%" />
+  <img src="assets/banner-v2.png" alt="Stefan Zhang — Robotics & 3D Computer Vision" width="100%" />
 </p>
 
-# Stefan Zhang
-
-Electronic Information Engineering undergraduate at **Sichuan University – Pittsburgh Institute (SCUPI)**. Enrolled in 2024.
-
-Interested in building practical perception systems and learning useful representations of the 3D world.
+<p align="center">
+  <strong>Electronic Information Engineering · Class of 2028</strong><br />
+  Sichuan University – Pittsburgh Institute (SCUPI)<br /><br />
+  <a href="mailto:bracket_x@163.com">Email</a> · <a href="https://github.com/bracketxzhy?tab=repositories">Repositories</a>
+</p>
 
 ## Research Interests
 
 3D Computer Vision · 3D Reconstruction · Robotics Perception  
 Multimodal Sensor Fusion · Deep Learning · Point Cloud Processing
 
-## Technical Toolkit
+## Toolkit
 
 | Area | Tools |
 | :--- | :--- |
@@ -29,7 +29,3 @@ Multimodal Sensor Fusion · Deep Learning · Point Cloud Processing
 </p>
 
 <sub>Updated daily. Language statistics reflect repository contents, not proficiency. Generated with <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats Action</a>.</sub>
-
-## Contact
-
-[Email](mailto:bracket_x@163.com) · [GitHub](https://github.com/bracketxzhy)
