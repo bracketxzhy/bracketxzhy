@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+<title id="title">Stefan Zhang</title>
+<desc id="desc">Robotics and 3D Computer Vision. Minimal typographic banner.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+<text x="800" y="210" fill="#1d1d1f" font-size="104" font-weight="600" letter-spacing="-4">Stefan Zhang</text>
+<text x="800" y="284" fill="#6e6e73" font-size="38" font-weight="400" letter-spacing="-0.5">Robotics &amp; 3D Computer Vision</text>
+</g>
+</svg>

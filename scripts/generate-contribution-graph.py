@@ -30,7 +30,11 @@ class CalendarParser(HTMLParser):
             self.current = None
 
 
-def render(raw, output):
+def render(raw, output, theme='dark'):
+    colors = {
+        'dark': {'line': '#39d353', 'grid': '#24302a', 'text': '#8b949e', 'area': '#26a641'},
+        'light': {'line': '#1a7f37', 'grid': '#d8dee4', 'text': '#656d76', 'area': '#2da44e'},
+    }[theme]
     parser = CalendarParser()
     parser.feed(raw)
     values = {}
@@ -55,7 +59,7 @@ def render(raw, output):
     svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="1016" height="300" viewBox="0 0 1016 300" role="img" aria-labelledby="title desc" data-start-date="{days[0]}" data-end-date="{end}">',
            '<title id="title">bracketxzhy\'s Contribution Graph</title>',
            f'<desc id="desc">Public GitHub contributions from {days[0]} through {end}; {sum(counts)} contributions in this period.</desc>',
-           '<rect width="1016" height="300" rx="12" fill="#0d1117"/>',
+           '<rect width="1016" height="300" rx="12" fill="none"/>',
            '<g font-family="Arial, Helvetica, sans-serif">',
            '<text x="508" y="34" text-anchor="middle" fill="#39d353" font-size="21" font-weight="600">bracketxzhy\'s Contribution Graph</text>']
     for i in range(5):
@@ -72,8 +76,11 @@ def render(raw, output):
     svg += ['<text x="508" y="286" text-anchor="middle" fill="#8b949e" font-size="12">Date</text>',
             '<text x="18" y="154" transform="rotate(-90 18 154)" text-anchor="middle" fill="#8b949e" font-size="12">Contributions</text>',
             '</g></svg>']
+    svg = '\n'.join(svg) + '\n'
+    for old, new in (('#39d353', colors['line']), ('#24302a', colors['grid']), ('#8b949e', colors['text']), ('#26a641', colors['area'])):
+        svg = svg.replace(old, new)
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text('\n'.join(svg) + '\n', encoding='utf-8')
+    output.write_text(svg, encoding='utf-8')
     print(f'Rendered {len(days)} verified dates: {days[0]} to {end}')
 
 
@@ -87,4 +94,6 @@ if __name__ == '__main__':
         request = Request('https://github.com/users/bracketxzhy/contributions', headers={'User-Agent': 'GitHub-Profile-Graph', 'Accept-Language': 'en-US,en;q=0.8'})
         with urlopen(request, timeout=45) as response:
             html = response.read().decode('utf-8')
-    render(html, Path(__file__).resolve().parents[1] / 'assets' / 'contribution-graph.svg')
+    assets = Path(__file__).resolve().parents[1] / 'assets'
+    render(html, assets / 'contribution-graph.svg', 'dark')
+    render(html, assets / 'contribution-graph-light.svg', 'light')

@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=bracketxzhy&show_icons=true&hide_rank=true&disable_animations=true&bg_color=0d1117&title_color=79b8ff&text_color=b6c6d9&icon_color=56d4dd&border_color=303d50&card_width=495
+          options: username=bracketxzhy&show_icons=true&hide_rank=true&disable_animations=true&bg_color=00000000&hide_border=true&title_color=79b8ff&text_color=b6c6d9&icon_color=56d4dd&border_color=303d50&card_width=495
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
@@ -36,8 +36,24 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
-          options: username=bracketxzhy&layout=compact&langs_count=6&disable_animations=true&bg_color=0d1117&title_color=79b8ff&text_color=b6c6d9&border_color=303d50&card_width=495
+          options: username=bracketxzhy&layout=compact&langs_count=6&disable_animations=true&bg_color=00000000&hide_border=true&title_color=79b8ff&text_color=b6c6d9&border_color=303d50&card_width=495
           path: assets/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+      - name: Generate light statistics
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=bracketxzhy&show_icons=true&hide_rank=true&disable_animations=true&bg_color=00000000&hide_border=true&title_color=0969da&text_color=1f2328&icon_color=0969da&card_width=495
+          path: assets/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: 'true'
+      - name: Generate light language distribution
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=bracketxzhy&layout=compact&langs_count=6&disable_animations=true&bg_color=00000000&hide_border=true&title_color=0969da&text_color=1f2328&card_width=495
+          path: assets/languages-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
       - name: Generate contribution snake
@@ -56,7 +72,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/stats.svg assets/languages.svg assets/contribution-graph.svg assets/github-snake.svg assets/github-snake-dark.svg
+          git add assets/stats.svg assets/stats-light.svg assets/languages.svg assets/languages-light.svg assets/contribution-graph.svg assets/contribution-graph-light.svg assets/github-snake.svg assets/github-snake-dark.svg
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'chore: refresh public profile visuals'
           git push
