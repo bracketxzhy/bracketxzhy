@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="assets/banner-minimal-light.svg#gh-light-mode-only" alt="Stefan Zhang — Robotics &amp; 3D Computer Vision" width="100%" />
-  <img src="assets/banner-minimal-dark.svg#gh-dark-mode-only" alt="Stefan Zhang — Robotics &amp; 3D Computer Vision" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Electronic Information Engineering · Class of 2028</strong><br />
+  <strong>Electrical and Computer Engineering (ECE) · Class of 2028</strong><br />
   Sichuan University – Pittsburgh Institute (SCUPI)<br /><br />
   <a href="mailto:bracket_x@163.com">Email</a> · <a href="https://github.com/bracketxzhy?tab=repositories">Repositories</a>
 </p>
