@@ -33,4 +33,4 @@ Multimodal Sensor Fusion · Deep Learning · Point Cloud Processing
   <img src="assets/github-snake-dark.svg#gh-dark-mode-only" alt="Animated snake following bracketxzhy's contribution calendar" width="100%" />
 </p>
 
-<sub>Updated daily. Language statistics reflect repository contents, not proficiency. Visuals: <a href="https://github.com/stats-organization/github-readme-stats-action">GitHub Readme Stats</a> · <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> · <a href="https://github.com/lobehub/lobe-icons">Lobe Icons</a> · <a href="https://github.com/Platane/snk">snk</a>.</sub>
+
